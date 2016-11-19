@@ -10,5 +10,6 @@ def printing():
     idea7 = 'b'
     idea8 = 'a'
     idea9 = 'd'
+    idea10 = 's'
     print idea1 + idea2 + idea3 + idea4 + idea5 + idea6 + idea2,
-    print idea7 + idea8 + idea6 + idea2 + idea9
+    print idea7 + idea8 + idea10 + idea2 + idea9
