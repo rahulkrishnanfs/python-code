@@ -9,4 +9,8 @@ http://www.vim.org/scripts/script.php?script_id=891
 
 apt-get install python-virtualenv
 
-3) Setup for Centos
+
+
+Jenkin - Github integration
+
+https://www.fourkitchens.com/blog/article/trigger-jenkins-builds-pushing-github
