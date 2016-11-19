@@ -5,7 +5,8 @@ from variable import variable
 from mathoperators import math
 import helloworld
 from formatstring import format_string
-fromm comment import comment
+from comment import comment
+from more_printing import printing
 
 if __name__ == "__main__":
     string_text()
@@ -14,5 +15,6 @@ if __name__ == "__main__":
     helloworld.string_text()
     format_string()
     comment()
+    printing()
 
 
