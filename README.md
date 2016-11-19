@@ -7,4 +7,4 @@ http://www.vim.org/scripts/script.php?script_id=891
 
 2) Setup Virtual Environment
 
-apt-get ge
+apt-get install python-virtualenv
