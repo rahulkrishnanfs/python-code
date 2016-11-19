@@ -3,4 +3,4 @@
 
 #This is an example of comment 
 print 'This is an example of the comment'
-print "Hello#"
+print "Hello world#"
