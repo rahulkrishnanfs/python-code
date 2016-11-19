@@ -32,3 +32,7 @@ print "5>=5",5>=5
 
 #Less than or Equal to
 print "2<=2", 2<=2
+
+# PEMDAS
+
+print 5%2*3+4-4
