@@ -59,10 +59,51 @@ def string_manipulation():
     print "string1[0:len(string1):2]",string1[0:len(string1):2]  # return current character and move two character ahead
     print "string1[0:5]",string1[:5]
 
+    a,b,c,d,e = 'RAHUL'
+    print a,
+    print b,
+    print c,
+    print d,
+    print e,
 
+    print a;
+    print b;
+    print c;
+    print d;
+    print e;
 
+    print a, \
+    b,c,d,e
 
+    name = "Chennai"
+    for i in [a,c,d,e,]:
+        print i
+    for i in a,c,d,e:
+        print i
 
+    print "The value of name {}".format(name)
+
+    name_1 = ''
+    for i in name:
+        name_1+=i
+    print name_1
+
+    for i in range(len(name)):
+        print name[i]
+
+    print name[:-3]
+    print name[-7:-3]
+    print name[-(len(name)):-3]
+    print name[-3:-1]
+    print name[-len(name):None]
+    print name[-len(name):-1:2]
+    print name[::-1]
+    print name[-1:-len(name)-1:-2]
+
+    x = "1:2:3:4:5".split(":")
+    print x
+    x = ":".join(x)
+    print x
 
 
 string_manipulation()
